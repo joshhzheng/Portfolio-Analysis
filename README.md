@@ -29,10 +29,7 @@ The [Fama-French Five Factor Mode](https://mba.tuck.dartmouth.edu/pages/faculty/
 
 ## Findings with FAANG and QQQ Porfolios
 
-<div style="display: flex;">
-    <img src="faang_portfolio_data/actual_vs_predicted_returns.png" alt="FAANG Actual vs Predicted Returns" style="width: 50%;">
-    <img src="qqq_data/actual_vs_predicted_returns.png" alt="QQQ Actual vs Predicted Returns" style="width: 50%;">
-</div>
+![QQQ](qqq_data/actual_vs_predicted_returns.png)
 
 ### QQQ Growth Fund
 
@@ -49,6 +46,8 @@ The [Fama-French Five Factor Mode](https://mba.tuck.dartmouth.edu/pages/faculty/
 6. **Operating Profitability (RMW)**: The coefficient for operating profitability (RMW) is 6.063e-05. This coefficient is not statistically significant, suggesting that operating profitability may not have a significant impact on the QQQ index fund's performance during this period.
 
 7. **Investment (CMA)**: The coefficient for investment (CMA) is -0.0014. Similar to operating profitability, this coefficient is not statistically significant, indicating that investment may not have a significant impact on the QQQ index fund's performance.
+
+![faang](faang_portfolio_data/actual_vs_predicted_returns.png)
 
 ### FAANG Five Asset Portfolio
 
