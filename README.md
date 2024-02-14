@@ -27,11 +27,13 @@ The [Fama-French Five Factor Model](https://mba.tuck.dartmouth.edu/pages/faculty
 - **Investment (CMA)**:
   - Definition: Return difference between stocks of companies that invest conservatively and those that invest aggressively.
 
-## Findings with FAANG and QQQ Porfolios
+## Findings with Portfolios
 
 ### QQQ Growth Fund
 
 ![QQQ](qqq_data/actual_vs_predicted_returns.png)
+
+_Figure 1: Actual vs. Predicted Monthly Returns for QQQ Growth Fund_
 
 1. **R-Squared Statistic**: The R-squared statistic is 89%, indicating that approximately 89% of the variance in the QQQ index fund's residual return is explained by the independent variables in the model.
 
@@ -50,6 +52,8 @@ The [Fama-French Five Factor Model](https://mba.tuck.dartmouth.edu/pages/faculty
 ### FAANG Five Asset Portfolio
 
 ![faang](faang_portfolio_data/actual_vs_predicted_returns.png)
+
+_Actual vs. Predicted Daily Returns for FAANG Portfolio_
 
 1. **R-Squared Statistic**: The R-squared statistic is 63.7%, indicating that approximately 63.7% of the variance in the portfolio's residual return is explained by the independent variables in the model.
 
