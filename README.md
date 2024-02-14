@@ -33,7 +33,7 @@ The [Fama-French Five Factor Model](https://mba.tuck.dartmouth.edu/pages/faculty
 
 ![QQQ](qqq_data/actual_vs_predicted_returns.png)
 
-_Figure 1: Actual vs. Predicted Monthly Returns for QQQ Growth Fund_
+_Actual vs. Predicted Monthly Returns for QQQ Growth Fund_
 
 1. **R-Squared Statistic**: The R-squared statistic is 89%, indicating that approximately 89% of the variance in the QQQ index fund's residual return is explained by the independent variables in the model.
 
