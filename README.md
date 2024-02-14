@@ -29,9 +29,9 @@ The [Fama-French Five Factor Mode](https://mba.tuck.dartmouth.edu/pages/faculty/
 
 ## Findings with FAANG and QQQ Porfolios
 
-![QQQ](qqq_data/actual_vs_predicted_returns.png)
-
 ### QQQ Growth Fund
+
+![QQQ](qqq_data/actual_vs_predicted_returns.png)
 
 1. **R-Squared Statistic**: The R-squared statistic is 89%, indicating that approximately 89% of the variance in the QQQ index fund's residual return is explained by the independent variables in the model.
 
@@ -47,9 +47,9 @@ The [Fama-French Five Factor Mode](https://mba.tuck.dartmouth.edu/pages/faculty/
 
 7. **Investment (CMA)**: The coefficient for investment (CMA) is -0.0014. Similar to operating profitability, this coefficient is not statistically significant, indicating that investment may not have a significant impact on the QQQ index fund's performance.
 
-![faang](faang_portfolio_data/actual_vs_predicted_returns.png)
-
 ### FAANG Five Asset Portfolio
+
+![faang](faang_portfolio_data/actual_vs_predicted_returns.png)
 
 1. **R-Squared Statistic**: The R-squared statistic is 63.7%, indicating that approximately 63.7% of the variance in the portfolio's residual return is explained by the independent variables in the model.
 
