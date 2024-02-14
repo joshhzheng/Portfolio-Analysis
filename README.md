@@ -1,6 +1,6 @@
 # Fama-French Five Factor Model
 
-The [Fama-French Five Factor Mode](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.htm) is an extension of the [Capital Asset Pricing Model](https://www.investopedia.com/terms/c/capm.asp) and the [Fama-French Three Factor Model](https://www.investopedia.com/terms/f/famaandfrenchthreefactormodel.asp).
+The [Fama-French Five Factor Model](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) is an extension of the [Capital Asset Pricing Model](https://www.investopedia.com/terms/c/capm.asp) and the [Fama-French Three Factor Model](https://www.investopedia.com/terms/f/famaandfrenchthreefactormodel.asp). Read more [here](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html).
 
 ![fivefactor_equation.png](images/fivefactor_equation.png)
 
